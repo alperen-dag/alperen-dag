@@ -19,12 +19,12 @@ Currently focused on building real-world projects that solve practical business 
 
 ## 🚀 Featured Work
 
-### 🦺 AI-Powered Workplace Safety System
+### 🚨 [AI-Powered Workplace Safety System](https://github.com/alperen-dag/isg-ai-public)
 Computer vision-based workplace safety monitoring system designed for real manufacturing environments.
 
 Built with **Python, YOLO, OpenCV, Flask, and SQL**, featuring PPE violation detection, multi-camera management, reporting, user management, camera health monitoring, and configurable safety rules.
 
-> Public portfolio repository coming soon.
+➡️ **[View Project on GitHub](https://github.com/alperen-dag/isg-ai-public)**
 
 ### 🌐 Web Development & Digital Solutions
 I build responsive, performance-focused business websites and digital solutions through **Rivashe**, including WordPress development, analytics, SEO, and custom web functionality.
